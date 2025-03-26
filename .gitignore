@@ -52,3 +52,10 @@ int main(int argc, char** argv)
   print(std::string("hello"), file);
 }
 EOF
+
+$ edit README.md
+
+$ git status
+$ git add .
+$ git commit -m"added sources"
+$ git push origin master
