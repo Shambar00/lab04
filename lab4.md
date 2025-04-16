@@ -5,9 +5,10 @@
 ## Tasks
 
 - [ ] 1. Создать публичный репозиторий с названием **lab04** и с лиценцией **MIT**
-![alt text](image.png)
+
 - [ ] 2. Сгенирировать токен для доступа к сервису **GitHub** с правами **repo**
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/4cbe0f11-45af-439f-907d-537d7b548cbe)
+
 
 
 ## Tutorial
@@ -18,7 +19,7 @@ $ export GITHUB_EMAIL=<адрес_почтового_ящика>
 $ export GITHUB_TOKEN=<сгенирированный_токен>
 $ alias edit=<nano|vi|vim|subl>
 ```
-![alt text](image-2.png)
+
 
 ```sh
 $ cd ${GITHUB_USERNAME}/workspace
