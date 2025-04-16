@@ -110,9 +110,6 @@ void print(const std::string& text, std::ofstream& out);
 void print(const std::string& text, std::ostream& out = std::cout);
 EOF
 ```
-![alt text](image-6.png)
-
-
 ```sh
 $ cat > examples/example1.cpp <<EOF
 #include <print.hpp>
