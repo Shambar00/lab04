@@ -55,7 +55,8 @@ $ git commit -m"added README.md"
 $ git push origin master
 ```
 
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/8f9d1665-c957-4514-8db2-8e5f8b246ab3)
+
 
 Добавить на сервисе **GitHub** в репозитории **lab04** файл **.gitignore**
 со следующем содержимом:
@@ -67,7 +68,9 @@ $ git push origin master
 .idea/
 ```
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/dae78b4f-0970-49a5-a8bc-c8bf8881f060)
+![image](https://github.com/user-attachments/assets/c948c89f-99cb-49bd-b3f7-109af74f1f91)
+
 
 ```sh
 $ git pull origin master
@@ -93,7 +96,9 @@ void print(const std::string& text, std::ofstream& out)
 EOF
 ```
 
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/a7999049-2818-4de2-82d6-42711a36d2db)
+
+![image](https://github.com/user-attachments/assets/48c9fd03-8e91-4e2d-bce6-46b7f0bcba6b)
 
 ```sh
 $ cat > include/print.hpp <<EOF
@@ -143,7 +148,8 @@ $ git add .
 $ git commit -m"added sources"
 $ git push origin master
 ```
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/c97a5ab9-c41d-496e-a7c7-5c6415da7ce9)
+
 
 ## Report
 
